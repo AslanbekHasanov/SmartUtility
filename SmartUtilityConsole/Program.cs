@@ -91,6 +91,7 @@ switch(choice)
 
         break;
     case 2:
+        //EXIT va Asosiy menuga qaytish imkoniyatlarini qo'shish
         Console.Clear();
         Console.WriteLine("===Geometry Zone====");
         Console.WriteLine("" +
@@ -128,6 +129,7 @@ switch(choice)
 
         break;
     case 3:
+        //EXIT va Asosiy menuga qaytish imkoniyatlarini qo'shish
         Console.Clear();
         Console.WriteLine("===Text Tools====");
         Console.WriteLine("" +
